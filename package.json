@@ -39,6 +39,18 @@
               "icon": "https://packagephobia.now.sh/badge?p={{fullName}}/@{{version}}",
               "url": "https://packagephobia.now.sh/result?p={{fullName}}@{{version}}",
               "order": 0.12
+            },
+            {
+              "name": "minified size",
+              "icon": "https://badgen.net/bundlephobia/min/{{fullName}}",
+              "url": "https://bundlephobia.com/result?p={{fullName}}",
+              "order": 0.13
+            },
+            {
+              "name": "downloads",
+              "icon": "http://img.shields.io/npm/dm/{{fullName}}.svg?style=flat-square",
+              "url": "https://npmjs.org/package/{{fullName}}",
+              "order": 0.14
             }
           ]
         }
