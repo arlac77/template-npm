@@ -57,8 +57,9 @@
       }
     ],
     "usedBy": [
+      "arlac77/template-bitdiver",
       "arlac77/template-root",
-      "arlac77/template-bitdiver"
+      "bitdiver/definition"
     ]
   }
 }
