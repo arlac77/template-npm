@@ -8,6 +8,7 @@
           "messagePrefix": "chore(npm): ",
           "ignore": [
             "",
+            "node_modules",
             ".*.swp",
             "._*",
             ".DS_Store",
