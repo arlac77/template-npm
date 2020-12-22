@@ -8,6 +8,11 @@
           "messagePrefix": "chore(npm): ",
           "ignore": [
             "",
+            "README*",
+            "CHANGELOG*",
+            "package.json",
+            "LICENCE",
+            "LICENSE",
             "node_modules",
             ".*.swp",
             "._*",
