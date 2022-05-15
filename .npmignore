@@ -1,0 +1,17 @@
+build
+tests
+doc
+*.log
+*.tmp
+.tmp
+.test
+.vscode
+.github
+-.gitignore
+-.markdown-doctest-setup.js
+-.npmignore
+-.npmrc
+-.nyc_output
+-SUMMARY.md
+-coverage
+-node_modules
