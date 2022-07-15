@@ -59,9 +59,9 @@
               "order": 0.12
             },
             {
-              "name": "minified size",
-              "icon": "https://badgen.net/bundlephobia/min/{{fullName}}",
-              "url": "https://bundlephobia.com/result?p={{fullName}}",
+              "icon": "https://bundlejs.com/badge-light.svg",
+              "url": "https://bundlejs.com/?q={{fullName}}",
+              "name": "Open Bundle",
               "order": 0.13
             },
             {
