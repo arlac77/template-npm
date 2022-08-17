@@ -3,15 +3,14 @@ tests
 doc
 *.log
 *.tmp
-.tmp
-.test
 .vscode
 .github
--.gitignore
--.markdown-doctest-setup.js
--.npmignore
--.npmrc
--.nyc_output
--SUMMARY.md
--coverage
--node_modules
+--delete-- .tmp
+--delete-- .test
+--delete-- .gitignore
+--delete-- .markdown-doctest-setup.js
+--delete-- .npmignore
+--delete-- .npmrc
+--delete-- .nyc_output
+--delete-- coverage
+--delete-- node_modules
