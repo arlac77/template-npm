@@ -5,12 +5,3 @@ doc
 *.tmp
 .vscode
 .github
---delete-- .tmp
---delete-- .test
---delete-- .gitignore
---delete-- .markdown-doctest-setup.js
---delete-- .npmignore
---delete-- .npmrc
---delete-- .nyc_output
---delete-- coverage
---delete-- node_modules
