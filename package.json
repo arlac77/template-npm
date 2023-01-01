@@ -76,6 +76,7 @@
     ],
     "usedBy": [
       "arlac77/mf-hosting",
+      "arlac77/mf-hosting-cloudflare",
       "arlac77/template-bitdiver",
       "arlac77/template-root"
     ]
