@@ -74,6 +74,9 @@
         }
       }
     ],
+    "inheritFrom": [
+      "arlac77/template-root"
+    ],
     "usedBy": [
       "arlac77/mf-hosting",
       "arlac77/mf-hosting-cloudflare",
