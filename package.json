@@ -58,7 +58,7 @@
               "url": "https://packagephobia.now.sh/result?p={{fullName}}@{{version}}",
               "order": 0.12
             },
-            {     
+            {
               "icon": "https://deno.bundlejs.com/?q={{fullName}}&badge=detailed",
               "url": "https://bundlejs.com/?q={{fullName}}",
               "name": "bundlejs",
