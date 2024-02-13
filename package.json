@@ -1,4 +1,6 @@
 {
+  "name": "{{fullName}}",
+  "description": "{{description}}",
   "template": {
     "mergers": [
       {
