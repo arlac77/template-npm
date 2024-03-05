@@ -1,7 +1,6 @@
 {
   "name": "{{fullName}}",
   "description": "{{description}}",
-  "exports": {},
   "template": {
     "mergers": [
       {
