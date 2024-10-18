@@ -84,7 +84,8 @@
       "arlac77/mf-hosting-cloudflare",
       "arlac77/mf-hosting-frontend",
       "arlac77/template-bitdiver",
-      "arlac77/template-openapi"
+      "arlac77/template-openapi",
+      "arlac77/template-webapp"
     ]
   }
 }
