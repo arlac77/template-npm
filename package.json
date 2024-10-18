@@ -85,7 +85,8 @@
       "arlac77/mf-hosting-frontend",
       "arlac77/template-bitdiver",
       "arlac77/template-openapi",
-      "arlac77/template-webapp"
+      "arlac77/template-webapp",
+      "arlac77/template-component"
     ]
   }
 }
