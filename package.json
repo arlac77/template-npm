@@ -86,7 +86,9 @@
       "arlac77/template-bitdiver",
       "arlac77/template-openapi",
       "arlac77/template-web-app",
-      "arlac77/template-web-component"
+      "arlac77/template-web-component",
+      "arlac77/template-node-app",
+      "arlac77/template-node-component"
     ]
   }
 }
