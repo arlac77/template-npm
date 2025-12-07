@@ -36,6 +36,7 @@
                 "needs",
                 "if",
                 "runs-on",
+                "timeout-minutes",
                 "strategy",
                 "permissions",
                 "defaults",
