@@ -102,6 +102,7 @@
                 "install",
                 "install.*",
                 "install dependencies",
+                "install deps",
                 "install playwright",
                 "install npm",
                 "npm install",
