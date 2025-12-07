@@ -92,8 +92,11 @@
               "orderBy": [
                 "checkout",
                 "prepare node",
+                "install dependencies",
                 "install playwright",
+                "install npm",
                 "npm install",
+                "upload artifacts",
                 "upload test report"
               ]
             }
