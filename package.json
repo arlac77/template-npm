@@ -103,6 +103,8 @@
                 "install playwright",
                 "install npm",
                 "npm install",
+                "build",
+                "Build and push",
                 "test",
                 "test and coverage",
                 "coveralls",
