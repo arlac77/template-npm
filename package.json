@@ -91,6 +91,8 @@
               "normalizeValue": "@.*",
               "orderBy": [
                 "checkout",
+                "git checkout",
+                "prepare",
                 "prepare node",
                 "cleanup",
                 "remove lock",
@@ -102,6 +104,7 @@
                 "test",
                 "test and coverage",
                 "coveralls",
+                "docs",
                 "release",
                 "deploy",
                 "upload artifacts",
