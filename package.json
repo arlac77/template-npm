@@ -99,6 +99,8 @@
                 "install npm",
                 "npm install",
                 "test",
+                "release",
+                "deploy",
                 "upload artifacts",
                 "upload test report",
                 "create pull request"
