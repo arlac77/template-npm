@@ -94,6 +94,7 @@
                 "git checkout",
                 "prepare",
                 "prepare node",
+                "prepare CodeQL",
                 "initialize CodeQL",
                 "cleanup",
                 "remove lock",
@@ -109,6 +110,7 @@
                 "run docs",
                 "release",
                 "deploy",
+                "perform CodeQL analysis",
                 "upload artifacts",
                 "upload test report",
                 "create pull request"
