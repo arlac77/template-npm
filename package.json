@@ -92,12 +92,16 @@
               "orderBy": [
                 "checkout",
                 "prepare node",
+                "cleanup",
+                "remove lock",
                 "install dependencies",
                 "install playwright",
                 "install npm",
                 "npm install",
+                "test",
                 "upload artifacts",
-                "upload test report"
+                "upload test report",
+                "create pull request"
               ]
             }
           }
