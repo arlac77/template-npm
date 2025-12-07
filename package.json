@@ -120,6 +120,7 @@
                 "upload.*",
                 "upload artifacts",
                 "upload test report",
+                "publish wrangler",
                 "create pull request"
               ]
             }
