@@ -110,6 +110,8 @@
                 "build",
                 "Build and push",
                 "test",
+                "test.*",
+                "test browser",
                 "test and coverage",
                 "coveralls",
                 "docs",
