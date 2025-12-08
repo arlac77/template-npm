@@ -96,6 +96,7 @@
                 "prepare.*",
                 "prepare node",
                 "prepare CodeQL",
+                "prepare mosquitto",
                 "initialize CodeQL",
                 "cleanup",
                 "remove lock",
