@@ -82,9 +82,12 @@
                 "steps"
               ]
             },
-            "*.node-version": {
+            "*.matrix.node-version": {
               "scope": "deps",
               "merge": "mergeVersionsPreferNumeric"
+            },
+            "*.with.node-version": {
+              "scope": "deps"
             },
             "*.steps": {
               "key": "id|name|uses|run",
