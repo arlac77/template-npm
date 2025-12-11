@@ -91,6 +91,7 @@
               "normalizeValue": "@.*",
               "orderBy": [
                 "checkout",
+                "/checkout.*/",
                 "git checkout",
                 "prepare",
                 "/prepare.*/",
@@ -116,6 +117,7 @@
                 "test and coverage",
                 "coveralls",
                 "docs",
+                "/docs.*/",
                 "run docs",
                 "release",
                 "deploy",
@@ -124,6 +126,7 @@
                 "/upload.*/",
                 "upload artifacts",
                 "upload test report",
+                "/publish.*/",
                 "publish wrangler",
                 "create pull request"
               ]
